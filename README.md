@@ -1,0 +1,1 @@
+# MobileNative.SWAPIConsumer.Swift
